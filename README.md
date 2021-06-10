@@ -17,3 +17,5 @@ Para abrir directamente en colab:
 [04_integracion_2_rk.ipynb](https://colab.research.google.com/github/jfdoppler/DNL_1c2021/blob/main/04_integracion_2_rk.ipynb) (integración numérica: rk4)
 
 [05_bifurcaciones2D.ipynb](https://colab.research.google.com/github/jfdoppler/DNL_1c2021/blob/main/05_bifurcaciones2D.ipynb) (S.N.,T.,P. en 2D; widget interactivo)
+
+[06_analisis_series_temporales.ipynb](https://colab.research.google.com/github/jfdoppler/DNL_1c2021/blob/main/06_analisis_series_temporales.ipynb) (Análisis de series temporales, embeddings, órbitas periódicas)
