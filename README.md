@@ -21,3 +21,5 @@ Para abrir directamente en colab:
 [06_analisis_series_temporales.ipynb](https://colab.research.google.com/github/jfdoppler/DNL_1c2021/blob/main/06_analisis_series_temporales.ipynb) (Análisis de series temporales, embeddings, órbitas periódicas)
 
 [07_sindy.ipynb](https://colab.research.google.com/github/jfdoppler/DNL_1c2021/blob/main/07_sindy.ipynb) (Reconstrucción de campos vectores)
+
+[08_modos_empiricos.ipynb](https://colab.research.google.com/github/jfdoppler/DNL_1c2021/blob/main/08_modos_empiricos.ipynb) (SVD - Descripción en modos empíricos)
